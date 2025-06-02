@@ -38,7 +38,7 @@ This repository contains a collection of resources and papers on ***diffusion la
 ## Must-Read
 
 **Structured Denoising Diffusion Models in Discrete State-Spaces** \
-*Dieleman, Sander* \
+*D3PM* \
 [[https://arxiv.org/abs/2107.03006](https://arxiv.org/abs/2107.03006)] 
 
 ## Up-to-date
