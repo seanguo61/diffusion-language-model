@@ -9,7 +9,7 @@ This repository contains a collection of resources and papers on ***diffusion la
 
 - [Papers](#papers)
   - [Survey](#Survey)
-  - [Must Read](#Must Read)
+  - [Must-Read](#Must-Read)
   - [Up-to-date](#Up-to-date)
 
 
@@ -35,7 +35,7 @@ This repository contains a collection of resources and papers on ***diffusion la
 *Dieleman, Sander* \
 [[Website](https://sander.ai/2023/01/09/diffusion-language.html)] 
 
-## Must Read
+## Must-Read
 
 **Structured Denoising Diffusion Models in Discrete State-Spaces** \
 *Dieleman, Sander* \
