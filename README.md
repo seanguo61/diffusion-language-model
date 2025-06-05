@@ -23,9 +23,9 @@ This repository contains a collection of resources and papers on ***diffusion la
 
 ## Introductory Lectures
 
-**Diffusion language models** \
-*Dieleman, Sander* \
-[[Website](https://sander.ai/2023/01/09/diffusion-language.html)] 
+**Gemini-diffusion** \
+*Google* \
+[[Website](https://deepmind.google/models/gemini-diffusion/)] 
 
 # papers
 
@@ -41,8 +41,19 @@ This repository contains a collection of resources and papers on ***diffusion la
 *D3PM* \
 [[https://arxiv.org/abs/2107.03006](https://arxiv.org/abs/2107.03006)] 
 
+**Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution** \
+*SEED* \
+[[https://arxiv.org/abs/2310.16834](https://arxiv.org/abs/2310.16834)] 
+
+**Simple and Effective Masked Diffusion Language Models** \
+*MDLM Neurips 2024* \
+[[https://openreview.net/forum?id=L4uaAR4ArM](https://openreview.net/forum?id=L4uaAR4ArM)] 
+
+**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models** \
+*ICLR 2025* \
+[[https://arxiv.org/abs/2503.09573](https://arxiv.org/abs/2503.09573)] 
+
 ## Up-to-date
 
-**Diffusion language models** \
-*Dieleman, Sander* \
-[[Website](https://sander.ai/2023/01/09/diffusion-language.html)] 
+**LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
+[[https://arxiv.org/abs/2505.16839](https://arxiv.org/abs/2505.16839)] 
