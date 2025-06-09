@@ -10,7 +10,8 @@ This repository contains a collection of resources and papers on ***diffusion la
 - [Papers](#papers)
   - [Survey](#Survey)
   - [Must-Read](#Must-Read)
-  - [Up-to-date](#Up-to-date)
+  - [Large-langauge-model](#Large-langauge-model)
+  - [Applications](#Applications)
 
 
 # Resources
@@ -31,9 +32,11 @@ This repository contains a collection of resources and papers on ***diffusion la
 
 ## Survey
 
-**Diffusion language models** \
-*Dieleman, Sander* \
-[[Website](https://sander.ai/2023/01/09/diffusion-language.html)] 
+**Diffusion Models for Non-autoregressive Text Generation: A Survey** \
+[[https://arxiv.org/abs/2303.06574](https://arxiv.org/abs/2303.06574)] 
+
+**A Survey of Diffusion Models in Natural Language Processing** \
+[[https://arxiv.org/abs/2305.14671](https://arxiv.org/abs/2305.14671)] 
 
 ## Must-Read
 
@@ -53,7 +56,12 @@ This repository contains a collection of resources and papers on ***diffusion la
 *ICLR 2025* \
 [[https://arxiv.org/abs/2503.09573](https://arxiv.org/abs/2503.09573)] 
 
-## Up-to-date
+## Large-langauge-model
 
 **LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
 [[https://arxiv.org/abs/2505.16839](https://arxiv.org/abs/2505.16839)] 
+
+## Applications
+
+**Diffusion Language Models Are Versatile Protein Learners** \
+[[arxiv](https://arxiv.org/abs/2402.18567)] 
