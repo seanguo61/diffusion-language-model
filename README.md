@@ -56,6 +56,10 @@ This repository contains a collection of resources and papers on ***diffusion la
 *ICLR 2025* \
 [[https://arxiv.org/abs/2503.09573](https://arxiv.org/abs/2503.09573)] 
 
+**Simplified and Generalized Masked Diffusion for Discrete Data** \
+*Neurips 2024, deepmind* \
+[[https://github.com/google-deepmind/md4](https://github.com/google-deepmind/md4)] 
+
 ## Large-langauge-model
 
 **LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
