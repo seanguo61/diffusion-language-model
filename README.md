@@ -38,6 +38,9 @@ This repository contains a collection of resources and papers on ***diffusion la
 **A Survey of Diffusion Models in Natural Language Processing** \
 [[https://arxiv.org/abs/2305.14671](https://arxiv.org/abs/2305.14671)] 
 
+**Discrete Diffusion in Large Language and Multimodal Models: A Survey** \
+[[https://arxiv.org/pdf/2506.13759](https://arxiv.org/pdf/2506.13759)]
+
 ## Must-Read
 
 **Structured Denoising Diffusion Models in Discrete State-Spaces** \
@@ -60,10 +63,20 @@ This repository contains a collection of resources and papers on ***diffusion la
 *Neurips 2024, deepmind* \
 [[https://github.com/google-deepmind/md4](https://github.com/google-deepmind/md4)] 
 
+**Energy-Based Diffusion Language Models for Text Generation** \
+*ICLR 2025, stefano Ermon* \
+[[https://arxiv.org/abs/2410.21357](https://arxiv.org/abs/2410.21357)] 
+
 ## Large-langauge-model
 
 **LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
 [[https://arxiv.org/abs/2505.16839](https://arxiv.org/abs/2505.16839)] 
+
+## Diffusion and transformer integration
+
+## New papers
+**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding** \
+[[https://arxiv.org/pdf/2505.16990](https://arxiv.org/pdf/2505.16990)] 
 
 ## Applications
 
